@@ -45,10 +45,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=isaacreisbr23&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=isaacreisbr23)](https://github.com/anuraghazra/github-readme-stats" />
-</p>
-
 ---
 
 ## 🌐 Connect with me  
