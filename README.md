@@ -15,7 +15,7 @@
 
 <p>
   <!-- Icons de linguagens e ferramentas -->
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,python,c,cpp,java,mysql,postgres,sqlite,mongodb,git,docker,linux,aws,unreal,blender,kali,nest,next,prisma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,python,c,cpp,java,mysql,postgres,sqlite,mongodb,git,docker,linux,aws,unreal,blender,kali,nest,next,prisma&perline=8" />
 </p>
 
 > *"Tools are just tools, what's most important is to know the principles."*  
