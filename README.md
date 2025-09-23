@@ -1,7 +1,7 @@
 <!-- Banner / Intro -->
 <h1 align="center">Hello World! 👋</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/f9j4yY5Qm5rQm/giphy.gif" width="400"/>
+  <img src="https://avatars.githubusercontent.com/u/66951257?v=4" width="400"/>
 </p>
 
 <p align="center">
