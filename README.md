@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)" />
+  <img src="[![isaacreisbr23's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=isaacreisbr23)](https://github.com/anuraghazra/github-readme-stats)" />
 </p>
 
 ---
