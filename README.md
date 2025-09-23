@@ -13,7 +13,7 @@
 
 ## 🚀 A little of what I know (and study to know)  
 
-<p>
+<p align="center">
   <!-- Icons de linguagens e ferramentas -->
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,python,c,cpp,java,mysql,postgres,sqlite,mongodb,git,docker,linux,aws,unreal,blender,kali,nest,next,prisma&perline=8" />
 </p>
