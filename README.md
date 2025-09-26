@@ -1,7 +1,7 @@
 <!-- Banner / Intro -->
 <h1 align="center">Hello World! 👋</h1>
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM0eXp3bmQ3YTYwdjBsc2oycDBlbWRmZjQ3NnlmejVxcmh3MXZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3GSoFVODOkiPBFArlu/giphy.gif" width="400"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQEIt9YIsWEjpA/feedshare-shrink_1280/B4DZls1EBKGgAs-/0/1758467477512?e=1761782400&v=beta&t=fd21-rmQ046LxYpMW1a4qIOxUtw8mm8U4fhNKPjjeZA" width="400"/>
 </p>
 
 <p align="center">
