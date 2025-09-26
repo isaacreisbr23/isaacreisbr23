@@ -1,7 +1,7 @@
 <!-- Banner / Intro -->
 <h1 align="center">Hello World! 👋</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1qZnI1NW1wem5rbHVhd3ZwcTI1enJ0Mmx5NHdyOWV3MGE3anc2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif width="400"/>
+  <img src="https://applescoop.org/image/wallpapers/mac/minimalist-programmer-code-coding-developer-apple-gradient-black-28-10-2024-1730177126-hd-wallpaper.png width="400"/>
 </p>
 
 <p align="center">
