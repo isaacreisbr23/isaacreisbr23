@@ -55,3 +55,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/isaac-gabriel-avelino-dos-reis-933684378/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+---
+##
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/330px-Flag_of_Brazil.svg.png" />
+</p>
+
