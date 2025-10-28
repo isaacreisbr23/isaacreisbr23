@@ -28,9 +28,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=isaacreisbr23&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaacreisbr23&show_icons=true&theme=radical" height="160"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacreisbr23&layout=compact&theme=radical" height="160"/>
