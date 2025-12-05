@@ -10,6 +10,7 @@
 </p>
 
 ---
+<p>Code quality is much better than quantity.</p>
 
 ## 🚀 A little of what I know (and study to know)  
 
