@@ -12,6 +12,7 @@
 ---
 *Code quality is much better than quantity.*
 ---
+---
 *F*ck Your Vibe Code !!*
 
 ---
