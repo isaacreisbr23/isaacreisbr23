@@ -10,7 +10,7 @@
 </p>
 
 ---
-##Code quality is much better than quantity.
+*Code quality is much better than quantity.*
 
 ---
 
