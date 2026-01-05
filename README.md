@@ -1,64 +1,80 @@
-<!-- Banner / Intro -->
-<h1 align="center">Hello World! 👋</h1>
+# 👋 Olá, eu sou Isaac Gabriel
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/isaac-gabriel-avelino-dos-reis-933684378/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:isaacreisbr23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+🎮 **Desenvolvedor Unreal Engine | Web & Backend Developer**
 
----
-*Code quality is much better than quantity.*
----
----
-*"F#ck Your Vibe Code !!"*
+Sou desenvolvedor com experiência sólida em **Unreal Engine (C++ e Blueprints)**, focado em **VR multiplayer**, simulações e projetos educacionais (Educação 5.0). Também atuo como **dev web/backend**, trabalhando com APIs, bancos de dados e arquiteturas modernas.
 
 ---
 
-## 🚀 A little of what I know (and study to know)  
+## 🚀 Sobre mim
 
-<p align="center">
-  <!-- Icons de linguagens e ferramentas -->
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,python,c,cpp,java,mysql,postgres,sqlite,mongodb,git,docker,linux,aws,unreal,blender,kali,nest,next,prisma,godot&perline=8" />
-</p>
-
-> *"Tools are just tools, what's most important is to know the principles."*  
-
----
-
-## 🏆 Some Trophies and Stats  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=isaacreisbr23&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacreisbr23&layout=compact&theme=radical" height="160"/>
-</p>
+* 🕶️ Desenvolvimento de experiências **VR** e **multiplayer** na Unreal Engine 5
+* 🧠 Forte base em **C++**, lógica de jogo, replicação e performance
+* 🌐 Desenvolvimento **Web e Backend** (REST APIs, autenticação, arquitetura limpa)
+* 🧩 Experiência com projetos reais para empresas (VR educacional, esportes e simulações)
+* 🎨 Conhecimento em **Blender** para assets e pipelines 3D
 
 ---
 
-## 📊 More Statistics  
+## 🛠️ Tecnologias & Ferramentas
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacreisbr23&theme=radical" alt="GitHub Streak Stats"/>
-</p>
+### 🎮 Game / VR
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=isaacreisbr23&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</p>
+* Unreal Engine 5 (C++ / Blueprints)
+* Multiplayer & Replicação
+* VR (Meta Quest / OpenXR)
+
+### 🌐 Web / Backend
+
+* Node.js / NestJS
+* TypeScript / JavaScript
+* React
+* Prisma ORM
+* PostgreSQL / MySQL
+* WebSockets
+
+### 🧠 Linguagens
+
+* C / C++
+* TypeScript / JavaScript
+* Python
+* SQL
+
+### 🔧 Outros
+
+* Git & GitHub
+* Docker
+* Blender
 
 ---
 
-## 🌐 Connect with me  
+## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/isaac-gabriel-avelino-dos-reis-933684378/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+> Substitua `isaacreisbr23` pelo seu username do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaacreisbr23\&show_icons=true\&theme=tokyonight\&include_all_commits=true\&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacreisbr23\&layout=compact\&theme=tokyonight)
 
 ---
-##
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/330px-Flag_of_Brazil.svg.png" />
-</p>
 
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=isaacreisbr23\&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=isaacreisbr23\&theme=tokyonight\&row=1\&column=6)
+
+---
+
+## 📫 Contato
+
+* 💼 LinkedIn: *(adicione aqui)*
+* 📧 Email: *(adicione aqui)*
+
+---
+
+⭐ *Se curtir algum projeto, não esquece de deixar uma estrela!*
