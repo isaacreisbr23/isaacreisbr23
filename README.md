@@ -7,7 +7,7 @@
 </p>
 
 ---
-*Code quality is much better than quantity.*
+*Code quality > quantity.*
 ---
 ---
 *"F#ck Your Vibe Code !!"*
