@@ -5,7 +5,6 @@
   <a href="https://www.linkedin.com/in/isaac-gabriel-avelino-dos-reis-933684378/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:isaacreisbr23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacreisbr23)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 *Code quality is much better than quantity.*
