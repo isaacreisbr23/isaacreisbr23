@@ -14,11 +14,6 @@
 
 > **Code quality > quantity.**
 
----
-
-> *"F#ck Your Vibe Code !!"*
-
----
 
 ## 🚀 A little of what I know (and study to know)
 
