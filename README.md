@@ -40,10 +40,6 @@
 ## 📊 More Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaacreisbr23&show_icons=true&theme=radical&cache_seconds=1800" height="160"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=isaacreisbr23&theme=radical&cache_seconds=1800" />
 </p>
 
