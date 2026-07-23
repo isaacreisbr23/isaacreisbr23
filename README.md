@@ -18,7 +18,7 @@
 ## 🚀 A little of what I know (and study to know)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,python,c,cpp,java,postgres,git,docker,linux,aws,unreal,blender,kali,nest,next,prisma,godot&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,python,c,cpp,postgres,git,docker,linux,aws,unreal,blender,kali,nest,next,prisma,godot&perline=8" />
 </p>
 
 > *"Tools are just tools, what's most important is to know the principles."*
